@@ -1,0 +1,34 @@
+.login-form{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.login-form label{
+    float: left;
+    padding-bottom: 5px;
+}
+
+.login-form input{
+   width: 100%;
+   height: 40px;
+}
+
+.login-btn-div{
+    margin-top: 20px;
+}
+
+.login-btn{
+    width: 100%;
+    background-color: dodgerblue;
+    height: 40px;
+    border: 1px solid dodgerblue;
+    color: #fff;
+}
+
+.register-btn-div{
+    margin-top: 20px;
+}
+
+.register-btn-div a{
+    text-decoration: none;
+}
